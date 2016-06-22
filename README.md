@@ -11,6 +11,8 @@ Inspired by [this post on Reddit](https://np.reddit.com/r/dataisbeautiful/commen
 
 ![Football heatmap](https://raw.githubusercontent.com/zonination/football-hmap/master/football-hmap.png)
 
+Last updated 2016-06-22
+
 ## Source:
 
 [Pro Football Reference](http://www.pro-football-reference.com/boxscores/game_scores.cgi). Export using the `CSV` button to get the latest data.
