@@ -14,8 +14,8 @@ ggplot(games,aes(x=PtsW,y=PtsL))+
   scale_x_continuous(limits=c(-1,76),breaks=seq(0,80,2))+
   labs(title="Game Scores in Pro Football History",
        subtitle="Using the results of 15,741 American Football Games", # Change this if you update the data
-       y="Winning Score",
-       x="Losing Score",
+       y="Losing Score",
+       x="Winning Score",
        caption="created by /u/zonination")+
   z_theme()+
   theme(axis.text.x = element_text(angle = 90, hjust = 1,vjust=.5))+
