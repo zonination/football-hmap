@@ -15,7 +15,7 @@ Last updated 2016-06-22
 
 ## Source:
 
-[Pro Football Reference](http://www.pro-football-reference.com/boxscores/game_scores.htm). Export using the `CSV` button to get the latest data.
+[Pro Football Reference](http://www.pro-football-reference.com/boxscores/game-scores.htm). Export using the `CSV` button to get the latest data.
 
 ## Tools Used:
 
